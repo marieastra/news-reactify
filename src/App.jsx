@@ -8,6 +8,7 @@ function App() {
       <div className='container'>
       <Main />
       </div>
+      <span>ПРИВЕТ</span>
     </>
   )
 }
